@@ -1,0 +1,31 @@
+body {
+    background: #e4e6eb;
+    font-family: 'Chivo', sans-serif;
+    font-weight: 400;
+}
+
+.header {
+    background: #87b1c3;
+    background: linear-gradient(180deg, rgba(135, 177, 195, 1) 0%, rgba(228, 230, 235, 1) 100%);
+    text-align: center;
+    box-shadow: 4px 4px 4px grey;
+    border-radius: 8px;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+    background: #3a3b3c;
+    color: #d8b99e;
+    padding: 10px;
+    text-shadow: 1px 1px #6a9a2e;
+}
+
+.green {
+    color: #6a9a2e;
+}
+
+.btn {
+    background: #87b1c3;
+    border: #87b1c3;
+    color: #ffffff;
+}
